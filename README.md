@@ -1,2 +1,3 @@
-# umd-bootstrap-theme
-A Bootstrap 4 Drupal theme based on Barrio. Running on multiple UMD sites. 
+# UMD Bootstrap Theme
+
+Bootstrap 4 theme running on multiple UMD sites.
